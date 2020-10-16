@@ -4,7 +4,7 @@ This git repo contains 3 csv files: customers, orders, and products. All files h
 
 This is all fake/randomly generated data meant for practice purposes.
 
-You can find the tutorial for this repo on my medium blog post.
+You can find the tutorial for this repo on my medium blog post: https://bit.ly/351oMHI.
 
 The customers CSV file contains:
 - customer_id
